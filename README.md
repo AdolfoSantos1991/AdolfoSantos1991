@@ -19,5 +19,3 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
    <a href="https://office.live.com/start/myaccount.aspx?omkt=pt-BR&f=255&MSPPError=-2147217396" target="_blank"> adolfosantos1991@hotmail.com</a><br/>
    
    <a href="https://www.google.com/intl/pt-BR/account/about/" target="_blank"> adolfofarias1991@gmail.com</a>
-
-![snake gif](https://github.com/AdolfoSantos1991/AdolfoSantos1991/blob/output/github-contribution-grid-snake.svg)
