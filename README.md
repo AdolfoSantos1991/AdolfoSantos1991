@@ -17,6 +17,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## E-mails:
 
-   <a href="https://office.live.com/start/myaccount.aspx?omkt=pt-BR&f=255&MSPPError=-2147217396" target="_blank"> adolfosantos1991@hotmail.com</a><br/>
+   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:adolfosantos1991@hotmail.com)
    
-   <a href="https://www.google.com/intl/pt-BR/account/about/" target="_blank"> adolfofarias1991@gmail.com</a>
+   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adolfofarias1991@gmail.com)
